@@ -1,0 +1,12 @@
+build/
+node_modules/
+.sass-cache/
+.tmp/
+/dist
+*bundle.js
+./idea
+.vscode/
+npm-debug.log
+src_1
+kraken.menu.js
+.eslintrc.js
